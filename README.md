@@ -12,10 +12,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://progress-bar.dev/80/?width=200&color=blue&title=JavaScript" alt="Progress Bar">
-</p>
-
 [![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAACHCAYAAAA850oKAAAACXBIWXMAACE4AAAhOAFFljFgAAAAAXNSR...)](https://www.credly.com/badges/9be5742b-146c-4abb-ba83-d90148a5715e/public_url)
 
 I’m **Oliver Ikegah**, a passionate **Software Engineer**, **Technical Writer**, and an enthusiastic contributor to the global tech ecosystem. My journey is fueled by curiosity, a love for learning, and a drive to build impactful solutions that make a difference. I specialize in **web engineering**, **backend development**, and **technical documentation**, with a strong interest in open-source contributions and collaborative problem-solving.
