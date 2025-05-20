@@ -14,6 +14,14 @@
 
 [![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAACHCAYAAAA850oKAAAACXBIWXMAACE4AAAhOAFFljFgAAAAAXNSR...)](https://www.credly.com/badges/9be5742b-146c-4abb-ba83-d90148a5715e/public_url)
 
+<a href="https://www.credly.com/badges/d89d5303-fad8-4293-812e-ba2acd10918d/public_url">
+  <img src="https://github.com/oliverTwist2/oliverTwist2/blob/main/github-foundations.png" width="150" alt="Credly Badge"/>
+</a>
+
+<a href="https://www.credly.com/badges/9be5742b-146c-4abb-ba83-d90148a5715e/public_url">
+  <img src="https://github.com/oliverTwist2/oliverTwist2/blob/main/all-in-africa-open-source-contributor.png" width="150" alt="Credly Badge"/>
+</a>
+
 I’m **Oliver Ikegah**, a passionate **Software Engineer**, **Technical Writer**, and an enthusiastic contributor to the global tech ecosystem. My journey is fueled by curiosity, a love for learning, and a drive to build impactful solutions that make a difference. I specialize in **web engineering**, **backend development**, and **technical documentation**, with a strong interest in open-source contributions and collaborative problem-solving.
 
 ---
@@ -22,8 +30,10 @@ I’m **Oliver Ikegah**, a passionate **Software Engineer**, **Technical Writer*
 
 - **Pronouns:** He/Him  
 - **Education:**  
-  🎓 Graduate of [AltSchool Africa](https://altschoolafrica.com/schools/engineering) - School of Software Engineering, Class of 2022  
-  🎓 Contributor to [All in Africa 2024](https://allinopensource.org/all-in-africa/) Open Source Program  
+  - 🎓 Graduate of [AltSchool Africa](https://altschoolafrica.com/schools/engineering) - School of Software Engineering, Class of 2022  
+  - 🎓 Graduate of [All in Africa 2024](https://allinopensource.org/all-in-africa/) Open Source Program
+  - 🎓 [Github Foundations Certified](https://www.credly.com/badges/d89d5303-fad8-4293-812e-ba2acd10918d/public_url)
+  - 🎓 Graduate of Mechatronics Engineering, University of Port-Harcourt, Nigeria.
 - **Tech Stack:**  
   🖥️ Proficient in **JavaScript**, **Python**, and various backend frameworks.  
   🛠️ Experience with **Node.js**, **Django**, **Express.js**, **MongoDB**, and more.  
@@ -39,8 +49,8 @@ I’m **Oliver Ikegah**, a passionate **Software Engineer**, **Technical Writer*
 ## 🔭 What I’m Working On
 
 ### 🚀 Personal Projects:
-- **[Markdown to HTML Converter](https://github.com/oliverTwist2/markdown-to-html-converter)**: A simple and secure Node.js utility that converts Markdown to HTML with built-in XSS protection.
-- **[Express Routes Tester](https://github.com/oliverTwist2/express-route-tester)**: A powerful CLI tool for testing and analyzing Express.js routes in your Node.js applications.
+- **Markdown to HTML Converter - [down_render](https://www.npmjs.com/package/down_render)**: A simple and secure Node.js utility that converts Markdown to HTML with built-in XSS protection.
+- **Express Routes Tester - [route-pilot](https://www.npmjs.com/package/route-pilot)**: A powerful CLI tool for testing and analyzing Express.js routes in your Node.js applications.
 
 ### 🌍 Open Source Contributions:
 - Active contributor to [All in Africa](https://allinopensource.org/all-in-africa/), promoting open-source collaboration across Africa.
