@@ -105,8 +105,8 @@ I’m a passionate **technical writer** with a focus on creating clear and conci
 
 I’m always excited to collaborate on projects and learn from other developers. If you have an idea or project in mind, feel free to reach out!
 
-- **Email**: [oliverikegah@gmail.com](mailto:oliverikegah@gmail.com)  
-- **LinkedIn**: [View My Profile](https://www.linkedin.com/in/ikegah-oliver-11a112253/)  
+- **Email**: [Write Me](mailto:oliverikegah@gmail.com)  
+- **LinkedIn**: [Connect with Me](https://www.linkedin.com/in/ikegah-oliver-11a112253/)  
 - **Twitter**: [Follow Me](https://x.com/KraneOliver)  
 
 ---
