@@ -22,6 +22,11 @@
   <img src="https://github.com/oliverTwist2/oliverTwist2/blob/main/all-in-africa-open-source-contributor.png" width="150" alt="Credly Badge"/>
 </a>
 
+<a href="https://www.credly.com/badges/5607a6ff-fa3c-4407-aeea-9713267bb4d1/public_url">
+  <img src="https://github.com/oliverTwist2/oliverTwist2/blob/main/lfc102-inclusive-open-source-community-orientation.png" width="150" alt="Credly Badge"/>
+</a>
+
+
 I’m **Oliver Ikegah**, a passionate **Software Engineer**, **Technical Writer**, and an enthusiastic contributor to the global tech ecosystem. My journey is fueled by curiosity, a love for learning, and a drive to build impactful solutions that make a difference. I specialize in **web engineering**, **backend development**, and **technical documentation**, with a strong interest in open-source contributions and collaborative problem-solving.
 
 ---
